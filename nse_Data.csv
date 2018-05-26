@@ -1,0 +1,745 @@
+,Sr. No,Symbol,Name of the company,Last Price,Previous Close,Open,Day High,Day Low,Close Price
+0,1,20MICRONS, 20 Microns Limited,41.90,44.95,44.95,45.00,40.85,41.55
+1,2,3IINFOTECH, 3i Infotech Limited,5.00,5.10,5.05,5.15,4.90,5.00
+2,3,3MINDIA, 3M India Limited,"19,850.00","20,038.75","20,050.00","20,499.40","19,755.05","19,914.35"
+3,4,A2ZMES, A2Z Maintenance & Engineering Services Limited,0,0,0,0,0,0
+4,5,AANJANEYA, Aanjaneya Lifecare Limited,0,0,0,0,0,0
+5,6,AARTIDRUGS, Aarti Drugs Limited,535.60,533.05,532.95,543.30,525.00,538.25
+6,7,AARTIIND, Aarti Industries Limited,"1,246.00","1,272.70","1,280.00","1,280.00","1,244.00","1,248.95"
+7,8,AARVEEDEN,Aarvee Denims & Exports Limited,39.00,40.35,40.85,40.85,33.90,38.80
+8,9,ABAN,Aban Offshore Limited,153.40,154.30,154.60,156.70,152.60,153.75
+9,10,ABB,ABB Limited,"1,161.90","1,165.50","1,169.35","1,173.60","1,158.00",0.00
+10,11,ABCIL,Aditya Birla Chemicals (India) Limited,0,0,0,0,0,0
+11,12,ABGSHIP,ABG Shipyard Limited,5.90,5.85,5.95,6.10,5.80,5.90
+12,13,ABIRLANUVO,Aditya Birla Nuvo Limited,0,0,0,0,0,0
+13,14,ACC,ACC Limited,"1,320.75","1,332.80","1,333.50","1,335.95","1,308.25","1,322.85"
+14,15,ACE,Action Construction Equipment Limited,170.30,166.85,166.90,172.00,165.00,170.50
+15,16,ACKRUTI,Ackruti City Limited,0,0,0,0,0,0
+16,17,ADANIENT,Adani Enterprises Limited,124.00,119.15,119.05,125.90,118.05,124.80
+17,18,ACROPETAL,Acropetal Technologies Limited,0,0,0,0,0,0
+18,19,ADANIPOWER,Adani Power Limited,20.10,18.90,19.00,20.60,18.65,20.05
+19,20,ADFFOODS,ADF Foods Limited,259.25,255.30,254.05,261.00,254.00,259.45
+20,21,ADHUNIK,Adhunik Metaliks Limited,3.50,3.35,3.20,3.50,3.20,3.50
+21,22,ADORWELD,Ador Welding Limited,340.50,342.35,339.00,351.90,339.00,342.20
+22,23,ADSL,Allied Digital Services Limited,17.15,16.20,16.20,17.40,16.10,17.15
+23,24,ADVANIHOTR,Advani Hotels & Resorts (India) Limited,56.65,55.40,57.10,57.10,55.40,56.35
+24,25,ADVANTA,Advanta India Limited,0,0,0,0,0,0
+25,26,AEGISCHEM,Aegis Logistics Limited,273.70,271.20,272.95,280.00,266.00,274.30
+26,27,AFL,Accel Frontline Limited,52.35,49.90,51.90,52.35,50.20,52.05
+27,28,AFTEK,Aftek Limited,0,0,0,0,0,0
+28,29,AGCNET,AGC Networks Limited,108.25,107.20,107.50,111.65,107.50,108.80
+29,30,AGRODUTCH,Agro Dutch Industries Limited,0,0,0,0,0,0
+30,31,AHLEAST,Asian Hotels (East) Limited,303.20,297.60,294.00,304.85,293.15,301.40
+31,32,AHLUCONT,Ahluwalia Contracts (India) Limited,385.50,386.95,387.00,393.00,378.90,389.40
+32,33,AHLWEST,Asian Hotels (West) Limited,275.70,262.60,275.00,275.70,275.00,275.70
+33,34,AHMEDFORGE,Ahmednagar Forgings Limited,0,0,0,0,0,0
+34,35,AIAENG,AIA Engineering Limited,"1,574.00","1,560.10","1,550.00","1,574.05","1,539.50","1,565.85"
+35,36,AICHAMP,AI Champdany Industries Limited,25.00,26.05,25.00,25.00,25.00,25.00
+36,37,AJANTPHARM,Ajanta Pharma Limited,996.70,977.60,977.95,"1,008.00",971.70,998.05
+37,38,AJMERA,Ajmera Realty & Infra India Limited,247.00,239.45,245.05,256.40,243.90,248.05
+38,39,AKSHOPTFBR,Aksh Optifibre Limited,33.15,32.70,32.80,33.50,32.70,33.00
+39,40,AKZOINDIA,Akzo Nobel India Limited,"1,932.05","1,897.30","1,899.40","1,938.50","1,895.00","1,902.15"
+40,41,ALBK,Allahabad Bank,40.80,40.20,40.15,41.10,39.20,40.70
+41,42,ALCHEM,Alchemist Limited,6.25,6.55,6.40,6.60,6.25,6.25
+42,43,ALEMBICLTD,Alembic Limited,47.35,48.85,49.05,49.50,47.15,47.40
+43,44,ALFALAVAL,Alfa Laval (India) Limited,0,0,0,0,0,0
+44,45,ALICON,Alicon Castalloy Limited,628.50,609.50,611.80,628.50,605.00,627.15
+45,46,ALKALI,Alkali Metals Limited,76.00,74.45,75.00,76.95,73.30,75.60
+46,47,ALKYLAMINE,Alkyl Amines Chemicals Limited,689.60,650.45,669.90,689.60,651.05,681.35
+47,48,ALLCARGO,Allcargo Global Logistics Limited,122.40,119.75,118.15,124.90,118.15,122.40
+48,49,ALLSEC,Allsec Technologies Limited,313.00,363.95,339.50,340.00,298.35,313.75
+49,50,ALMONDZ,Almondz Global Securities Limited,31.80,30.30,31.50,31.80,31.05,31.80
+50,51,ALOKTEXT,Alok Industries Limited,1.65,1.60,1.65,1.65,1.65,1.65
+51,52,ALPHAGEO,Alphageo (India) Limited,722.00,721.75,734.00,734.00,718.00,724.60
+52,53,AMAR,Amar Remedies Limited,0,0,0,0,0,0
+53,54,AMARAJABAT,Amara Raja Batteries Limited,787.60,774.45,775.00,794.00,774.90,788.55
+54,55,ALPSINDUS,Alps Industries Limited,2.15,2.05,2.05,2.15,2.00,2.15
+55,56,AMBIKCO,Ambika Cotton Mills Limited,"1,333.05","1,343.50","1,345.00","1,351.00","1,317.10","1,333.80"
+56,57,AMBUJACEM,Ambuja Cements Limited,211.10,212.80,213.50,214.50,209.55,211.60
+57,58,AMDIND,AMD Industries Limited,28.40,28.40,28.40,28.40,28.40,0.00
+58,59,AMTEKAUTO,Amtek Auto Limited,11.85,11.30,11.85,11.85,11.85,11.85
+59,60,AMTEKINDIA,Amtek India Limited,0,0,0,0,0,0
+60,61,ANANTRAJ,Anant Raj Industries Limited,43.80,40.75,41.00,44.10,40.85,43.70
+61,62,ANDHRABANK,Andhra Bank,36.20,35.70,35.70,36.45,35.35,36.20
+62,63,ANDHRSUGAR,The Andhra Sugars Limited,389.00,379.55,382.00,399.50,380.00,390.75
+63,64,ANGIND,ANG Industries Limited,2.70,2.60,2.50,2.70,2.50,2.70
+64,65,ANIKINDS,Anik Industries Limited,34.40,33.40,34.50,34.80,32.05,33.10
+65,66,ANDHRACEMT,Andhra Cements Limited,10.10,10.30,9.80,10.30,9.80,10.05
+66,67,ANKURDRUGS,Ankur Drugs And Pharma Limited,0,0,0,0,0,0
+67,68,ANSALAPI,Ansal Properties & Infrastructure Limited,16.10,15.75,16.15,16.20,15.70,16.15
+68,69,ANSALHSG,Ansal Housing and Construction Limited,16.35,15.80,15.80,16.40,15.80,16.15
+69,70,ANTGRAPHIC,Antarctica Limited,0.65,0.70,0.65,0.70,0.65,0.65
+70,71,APARINDS,Apar Industries Limited,730.00,713.10,721.00,734.00,708.20,729.50
+71,72,APCOTEXIND,Apcotex Industries Limited,534.90,533.35,532.40,535.00,530.00,531.50
+72,73,APIL,Alstom Projects India Limited,0,0,0,0,0,0
+73,74,APOLLOHOSP,Apollo Hospitals Enterprise Limited,991.00,966.55,972.00,"1,004.85",955.05,993.90
+74,75,APOLLOTYRE,Apollo Tyres Limited,282.00,272.60,272.70,282.20,271.05,279.50
+75,76,APPAPER,The Andhra Pradesh Paper Mills Limited,0,0,0,0,0,0
+76,77,APTECHT,Aptech Limited,228.00,222.00,223.00,228.50,220.15,226.10
+77,78,AQUA,Aqua Logistics Limited,0,0,0,0,0,0
+78,79,ARCHIDPLY,Archidply Industries Limited,81.70,82.80,83.15,84.50,80.60,81.70
+79,80,ARCHIES,Archies Limited,32.20,33.10,31.80,32.95,31.80,32.30
+80,81,AREVAT&D,Areva T&D India Limited,0,0,0,0,0,0
+81,82,ARIES,Aries Agro Limited,156.00,161.90,161.90,161.90,151.30,156.55
+82,83,ARIHANT,Arihant Foundations & Housing Limited,38.55,40.00,40.40,40.40,38.55,38.55
+83,84,ARL,Arvind Remedies Limited,0,0,0,0,0,0
+84,85,AROGRANITE,Aro Granite Industries Limited,60.60,60.20,60.75,61.45,60.00,60.40
+85,86,ARROWTEX,Arrow Textiles Limited,32.75,31.60,32.10,33.00,31.50,32.45
+86,87,ARSHIYA,Arshiya International Limited,61.60,61.50,62.75,66.25,60.90,61.65
+87,88,ARSSINFRA,ARSS Infrastructure Projects Limited,30.10,28.70,30.10,30.10,29.50,30.10
+88,89,ARVIND,Arvind Limited,391.00,382.20,382.00,393.00,380.90,391.60
+89,90,ASAHIINDIA,Asahi India Glass Limited,342.00,340.95,341.90,342.00,338.00,340.95
+90,91,ASAL,Automotive Stampings and Assemblies Limited,70.55,69.15,69.70,72.90,69.70,71.00
+91,92,ASHAPURMIN,Ashapura Minechem Limited,58.90,58.10,58.50,60.00,58.20,58.95
+92,93,ASHCONIUL,Ashco Niulab Industries Limited,0,0,0,0,0,0
+93,94,ASHIANA,Ashiana Housing Limited,152.85,150.40,149.80,154.85,149.80,153.50
+94,95,ASHIMASYN,Ashima Limited,24.45,24.65,24.65,25.35,24.20,24.50
+95,96,ASHOKA,Ashoka Buildcon Limited,259.00,255.75,257.90,266.00,257.00,258.70
+96,97,ASHOKLEY,Ashok Leyland Limited,145.75,144.50,145.80,146.00,143.20,145.10
+97,98,ASIANELEC,Asian Electronics Limited,0,0,0,0,0,0
+98,99,ASIANHOTNR,Asian Hotels (North) Limited,271.15,285.00,285.05,285.05,271.15,271.70
+99,100,ASIANPAINT,Asian Paints Limited,"1,286.00","1,293.60","1,300.00","1,310.00","1,280.00","1,292.35"
+100,101,ASIANTILES,Asian Granito India Limited,431.00,431.55,432.70,434.75,425.10,429.75
+101,102,ASIL,Amit Spinning Industries Limited,0,0,0,0,0,0
+102,103,ASSAMCO,Assam Company India Limited,3.95,4.00,3.95,4.00,3.90,3.95
+103,104,ASTEC,Astec LifeSciences Limited,686.30,691.55,691.50,724.95,684.35,690.20
+104,105,ASTERSILI,Aster Silicates Limited,0,0,0,0,0,0
+105,106,ASTRAL,Astral Poly Technik Limited,950.00,959.35,959.00,970.00,940.00,957.85
+106,107,ASTRAMICRO,Astra Microwave Products Limited,95.20,93.65,94.50,95.50,93.00,95.05
+107,108,ASTRAZEN,AstraZeneca Pharma India Limited,"1,195.00","1,180.05","1,190.70","1,225.00","1,183.00","1,195.00"
+108,109,ATFL,Agro Tech Foods Limited,683.25,671.55,660.10,697.00,660.10,688.15
+109,110,ATLANTA,Atlanta Limited,63.00,63.05,63.10,64.15,62.60,63.10
+110,111,ATLASCYCLE,Atlas Cycles (Haryana) Limited,136.50,136.90,132.30,136.90,132.30,136.50
+111,112,ATNINTER,ATN International Limited,0,0,0,0,0,0
+112,113,ATUL,Atul Limited,"2,742.40","2,762.05","2,776.80","2,776.80","2,725.00","2,753.75"
+113,114,AURIONPRO,Aurionpro Solutions Limited,202.50,199.80,203.85,206.30,198.00,202.65
+114,115,AUROPHARMA,Aurobindo Pharma Limited,594.80,584.65,586.00,597.40,575.60,594.15
+115,116,AUSOMENT,Ausom Enterprise Limited,67.00,68.25,68.05,68.05,66.75,67.00
+116,117,AUSTRAL,Austral Coke & Projects Limited,0,0,0,0,0,0
+117,118,AUTOAXLES,Automotive Axles Limited,"1,340.00","1,366.35","1,379.05","1,379.05","1,338.00","1,339.90"
+118,119,AUTOIND,Autoline Industries Limited,75.50,75.70,74.05,76.80,74.00,74.45
+119,120,AUTOLITIND,Autolite (India) Limited,65.00,65.00,65.10,66.05,64.50,64.90
+120,121,AVANTI,Avanti Feeds Limited,0,0,0,0,0,0
+121,122,AVENTIS,Aventis Pharma Limited,0,0,0,0,0,0
+122,123,AVTNPL,AVT Natural Products Limited,34.30,33.95,34.25,34.50,33.50,34.35
+123,124,AXISBANK,Axis Bank Limited,541.20,534.45,535.60,543.50,532.50,538.50
+124,125,AXIS-IT&T,Axis-IT&T Limited,0,0,0,0,0,0
+125,126,BAGFILMS,B.A.G Films and Media Limited,5.00,5.10,5.25,5.25,4.90,5.05
+126,127,BAJAJ-AUTO,Bajaj Auto Limited,"2,757.50","2,732.80","2,754.95","2,775.60","2,723.00","2,758.50"
+127,128,BAJAJCORP,Bajaj Corp Limited,458.00,454.20,459.80,460.00,452.70,0.00
+128,129,BAJAJELEC,Bajaj Electricals Limited,577.50,563.30,580.00,588.00,570.00,0.00
+129,130,BAJAJFINSV,Bajaj Finserv Limited,"6,084.95","5,826.40","5,864.00","6,097.30","5,850.00","6,071.70"
+130,131,BAJAJHIND,Bajaj Hindusthan Limited,7.05,7.10,7.05,7.15,7.00,7.00
+131,132,BAJAJHLDNG,Bajaj Holdings & Investment Limited,"2,804.20","2,773.80","2,780.00","2,820.00","2,771.20",0.00
+132,133,BAJFINANCE,Bajaj Finance Limited,"2,120.00","2,094.75","2,107.00","2,151.90","2,103.50","2,116.00"
+133,134,BALAJITELE,Balaji Telefilms Limited,129.15,129.20,129.65,130.10,127.65,0.00
+134,135,BALAMINES,Balaji Amines Limited,611.00,588.40,588.00,618.00,588.00,612.85
+135,136,BALKRISIND,Balkrishna Industries Limited,"1,090.00","1,086.50","1,096.70","1,096.70","1,050.10","1,089.70"
+136,137,BALLARPUR,Ballarpur Industries Limited,11.15,10.90,10.95,11.25,10.75,11.05
+137,138,BALMLAWRIE,Balmer Lawrie & Company Limited,211.85,206.35,206.45,212.10,206.45,210.15
+138,139,BALPHARMA,Bal Pharma Limited,82.10,69.85,69.60,83.80,69.35,82.55
+139,140,BALRAMCHIN,Balrampur Chini Mills Limited,71.20,69.80,70.60,71.40,68.30,70.35
+140,141,BANARISUG,Bannari Amman Sugars Limited,"1,560.00","1,568.40","1,577.20","1,580.00","1,554.00","1,559.45"
+141,142,BANCOINDIA,Banco Products (I) Limited,216.00,211.70,212.00,217.00,211.95,215.00
+142,143,BANG,Bang Overseas Limited,42.00,41.40,41.25,42.20,41.00,42.05
+143,144,BANKBARODA,Bank of Baroda,140.35,138.85,139.00,144.20,139.00,0.00
+144,145,BANKINDIA,Bank of India,103.50,99.85,100.00,103.80,99.35,103.05
+145,146,BANSWRAS,Banswara Syntex Limited,95.60,93.20,95.90,95.95,93.20,95.65
+146,147,BARTRONICS,Bartronics India Limited,11.70,11.15,11.65,11.70,11.55,11.70
+147,148,BASF,BASF India Limited,"1,990.00","1,981.95","1,998.05","2,020.95","1,981.10","2,003.50"
+148,149,BASML,Bannari Amman Spinning Mills Limited,230.00,230.00,227.70,230.00,227.00,230.00
+149,150,BATAINDIA,Bata India Limited,762.45,750.35,748.55,772.00,748.55,762.85
+150,151,BATLIBOI,Batliboi Limited,0,0,0,0,0,0
+151,152,BBL,Bharat Bijlee Limited,"1,411.00","1,408.45","1,412.10","1,420.00","1,402.00","1,408.60"
+152,153,BBTC,Bombay Burmah Trading Corporation Limited,"1,502.00","1,484.30","1,497.00","1,514.65","1,480.15","1,505.05"
+153,154,BEDMUTHA,Bedmutha Industries Limited,17.75,17.25,17.25,17.75,16.65,17.50
+154,155,BEL,Bharat Electronics Limited,118.50,116.05,116.40,119.20,115.55,118.45
+155,156,BELLCERATL,Bell Ceramics Limited,0,0,0,0,0,0
+156,157,BEML,BEML Limited,949.00,932.65,936.90,997.00,935.00,951.40
+157,158,BEPL,Bhansali Engineering Polymers Limited,163.00,165.70,166.20,166.40,162.85,163.30
+158,159,BERGEPAINT,Berger Paints (I) Limited,296.30,293.25,293.00,300.00,287.90,296.45
+159,160,BFINVEST,BF Investment Limited,295.95,292.25,293.40,307.00,287.10,296.80
+160,161,BFUTILITIE,BF Utilities Limited,368.50,363.55,364.05,374.55,364.05,368.60
+161,162,BGRENERGY,BGR Energy Systems Limited,93.75,92.25,92.40,94.80,91.10,93.70
+162,163,BHAGWATIHO,Bhagwati Banquets and Hotels Limited,0,0,0,0,0,0
+163,164,BHAGYNAGAR,Bhagyanagar India Limited,0,0,0,0,0,0
+164,165,BHARATFORG,Bharat Forge Limited,666.20,642.50,644.00,670.90,644.00,666.65
+165,166,BHARATGEAR,Bharat Gears Limited,174.00,165.40,165.40,176.00,163.30,171.80
+166,167,BHARATRAS,Bharat Rasayan Limited,"5,600.00","5,613.15","5,682.60","5,750.00","5,587.00","5,612.90"
+167,168,BHARTIARTL,Bharti Airtel Limited,377.60,371.90,372.30,380.00,367.00,376.95
+168,169,BHARTISHIP,Bharati Shipyard Limited,0,0,0,0,0,0
+169,170,BHEL,Bharat Heavy Electricals Limited,75.10,74.85,75.20,75.65,74.55,75.05
+170,171,BHUSANSTL,Bhushan Steel Limited,35.15,33.50,35.15,35.15,35.15,35.15
+171,172,BIL,Bhartiya International Limited,401.00,402.45,398.00,403.50,393.05,397.45
+172,173,BILPOWER,Bilpower Limited,0,0,0,0,0,0
+173,174,BINANIIND,Binani Industries Limited,88.05,87.85,87.50,89.80,87.50,88.05
+174,175,BINDALAGRO,Oswal Chemicals & Fertilizers Limited,25.50,25.10,25.50,25.80,24.60,25.30
+175,176,BIOCON,Biocon Limited,662.80,645.35,645.00,663.85,639.15,659.95
+176,177,BIRLACORPN,Birla Corporation Limited,760.00,737.30,739.00,765.95,732.10,759.00
+177,178,BIRLACOT,Birla Cotsyn (India) Limited,0,0,0,0,0,0
+178,179,BIRLAERIC,Birla Ericsson Optical Limited,0,0,0,0,0,0
+179,180,BIRLAMONEY,Aditya Birla Money Limited,62.50,60.80,62.00,63.00,60.20,62.10
+180,181,BIRLAPOWER,Birla Power Solutions Limited,0,0,0,0,0,0
+181,182,BLBLIMITED,BLB Limited,8.00,7.65,7.65,8.00,7.50,7.75
+182,183,BLISSGVS,Bliss GVS Pharma Limited,181.00,181.85,182.25,184.80,181.00,181.20
+183,184,BLKASHYAP,B. L. Kashyap and Sons Limited,42.55,42.90,43.20,43.55,42.50,42.55
+184,185,BLUECHIP,Blue Chip India Limited,0.25,0.25,0.00,0.00,0.00,0.00
+185,186,BLUECOAST,Blue Coast Hotels and Resorts Limited,83.00,81.05,83.00,83.00,83.00,83.00
+186,187,BLUEDART,Blue Dart Express Limited,"3,500.00","3,373.00","3,399.95","3,529.90","3,330.00","3,502.90"
+187,188,BLUESTARCO,Blue Star Limited,705.95,702.90,706.40,710.00,683.05,701.45
+188,189,BLUESTINFO,Blue Star Infotech Limited,0,0,0,0,0,0
+189,190,BOC,BOC India Limited,0,0,0,0,0,0
+190,191,BOMDYEING,Bombay Dyeing & Mfg Company Limited,262.20,258.60,259.70,264.60,256.50,262.10
+191,192,BOSCHLTD,Bosch Limited,"17,899.00","17,757.50","17,843.75","17,901.15","17,640.00","17,807.05"
+192,193,BPCL,Bharat Petroleum Corporation Limited,381.30,371.35,371.00,383.00,367.25,380.55
+193,194,BPL,BPL Limited,64.20,64.05,64.75,65.00,63.00,64.30
+194,195,BRANDHOUSE,Brandhouse Retails Limited,0,0,0,0,0,0
+195,196,BRFL,Bombay Rayon Fashions Limited,21.25,21.50,22.10,22.10,20.45,21.75
+196,197,BRIGADE,Brigade Enterprises Limited,245.00,247.10,245.95,249.90,241.05,245.90
+197,198,BRITANNIA,Britannia Industries Limited,"5,822.00","5,718.20","5,720.00","5,850.00","5,706.05","5,827.50"
+198,199,BROADCAST,Broadcast Initiatives Limited,0,0,0,0,0,0
+199,200,BSELINFRA,BSEL Infrastructure Realty Limited,3.30,3.35,3.45,3.45,3.30,3.30
+200,201,BSL,BSL Limited,55.00,54.85,55.80,56.50,55.00,55.05
+201,202,BSTRANSCOM,BS TransComm Limited,0,0,0,0,0,0
+202,203,BURNPUR,Burnpur Cement Limited,5.20,5.15,5.25,5.35,5.05,5.25
+203,204,BVCL,Barak Valley Cements Limited,23.05,22.00,22.10,23.05,21.30,23.00
+204,205,CADILAHC,Cadila Healthcare Limited,379.30,357.25,365.00,408.05,352.00,382.20
+205,206,CAIRN,Cairn India Limited,0,0,0,0,0,0
+206,207,CALSOFT,California Software Company Limited,30.05,30.30,30.05,31.80,28.80,29.60
+207,208,CAMBRIDGE,Cambridge Solutions Limited,0,0,0,0,0,0
+208,209,CAMLIN,Camlin Limited,0,0,0,0,0,0
+209,210,CANBK,Canara Bank,253.45,245.10,245.30,256.00,244.20,253.20
+210,211,CANDC,C & C Constructions Limited,43.85,43.00,43.55,43.90,42.50,43.40
+211,212,CANFINHOME,Can Fin Homes Limited,363.45,353.75,354.95,364.00,353.95,360.95
+212,213,CANTABIL,Cantabil Retail India Limited,128.00,123.70,127.00,129.50,124.00,128.25
+213,214,CARBORUNIV,Carborundum Universal Limited,347.50,329.40,329.75,349.00,327.05,344.80
+214,215,CAROLINFO,Carol Info Services Limited,0,0,0,0,0,0
+215,216,CASTROL,Castrol India Limited,0,0,0,0,0,0
+216,217,CCCL,Consolidated Construction Consortium Limited,3.45,3.45,3.45,3.55,3.15,3.40
+217,218,CCL,CCL Products (India) Limited,314.90,315.05,315.40,317.10,312.10,314.45
+218,219,CEATLTD,CEAT Limited,"1,352.05","1,299.85","1,305.45","1,364.90","1,298.00","1,356.95"
+219,220,CEBBCO,Commercial Engineers & Body Builders Co Limited,14.05,14.10,13.70,14.60,13.70,13.90
+220,221,CELESTIAL,Celestial Biolabs Limited,11.10,11.10,11.20,11.60,10.60,11.05
+221,222,CENTENKA,Century Enka Limited,316.00,312.75,312.65,320.00,306.45,311.50
+222,223,CENTEXT,Century Extrusions Limited,6.20,5.95,5.65,6.50,5.65,6.20
+223,224,CENTRALBK,Central Bank of India,66.65,66.50,67.00,67.20,66.10,66.80
+224,225,CENTUM,Centum Electronics Limited,497.60,498.80,502.00,507.90,488.05,492.60
+225,226,CENTURYPLY,Century Plyboards (India) Limited,269.80,270.80,272.40,273.50,266.50,269.50
+226,227,CENTURYTEX,Century Textiles & Industries Limited,952.10,950.45,951.80,971.70,944.00,950.55
+227,228,CERA,Cera Sanitaryware Limited,"2,865.00","2,850.85","2,879.95","2,894.00","2,836.70","2,869.60"
+228,229,CESC,CESC Limited,"1,042.00","1,020.55","1,023.80","1,049.55","1,023.80","1,040.95"
+229,230,CHAMBLFERT,Chambal Fertilizers & Chemicals Limited,163.50,160.50,159.05,164.85,159.05,163.25
+230,231,CHEMFALKAL,Chemfab Alkalis Limited,0,0,0,0,0,0
+231,232,CHEMPLAST,Chemplast Sanmar Limited,0,0,0,0,0,0
+232,233,CHENNPETRO,Chennai Petroleum Corporation Limited,283.55,267.50,269.45,283.55,266.90,281.45
+233,234,CHESLINTEX,Cheslind Textiles Limited,0,0,0,0,0,0
+234,235,CHETTINAD,Chettinad Cement Corporation Limited,0,0,0,0,0,0
+235,236,CHOLAFIN,Cholamandalam Investment and Finance    Company Limited,"1,507.00","1,494.10","1,503.00","1,519.40","1,489.00","1,507.40"
+236,237,CILNOVA,CIL Nova Petrochemicals Limited,0,0,0,0,0,0
+237,238,CINEMAX,Cinemax India Limited,0,0,0,0,0,0
+238,239,CINEVISTA,Cinevistaas Limited,7.45,7.45,7.80,7.80,7.35,7.55
+239,240,CIPLA,Cipla Limited,535.55,533.50,538.85,538.85,527.50,536.65
+240,241,CLASSIC,Classic Diamonds (India) Limited,0,0,0,0,0,0
+241,242,CLNINDIA,Clariant Chemicals (India) Limited,448.05,439.65,439.00,451.50,435.00,449.05
+242,243,CLUTCHAUTO,Clutch Auto Limited,0,0,0,0,0,0
+243,244,CMAHENDRA,C. Mahendra Exports Limited,0,0,0,0,0,0
+244,245,CMC,CMC Limited,0,0,0,0,0,0
+245,246,COALINDIA,Coal India Limited,277.70,280.10,280.10,283.30,272.55,275.60
+246,247,COLPAL,Colgate Palmolive (India) Limited,"1,260.35","1,251.35","1,250.00","1,272.00","1,240.20","1,257.40"
+247,248,CONCOR,Container Corporation of India Limited,"1,376.30","1,381.00","1,375.20","1,396.40","1,367.15","1,378.25"
+248,249,CONSOFINVT,Consolidated Finvest & Holdings    Limited,59.00,59.85,60.10,60.90,58.40,59.20
+249,250,CORAL-HUB,Coral Hub Limited,0,0,0,0,0,0
+250,251,CORDSCABLE,Cords Cable Industries Limited,72.65,73.10,77.90,77.90,71.75,72.95
+251,252,COREPROTEC,Core Projects and Technologies Limited,0,0,0,0,0,0
+252,253,COROMANDEL,Coromandel International Limited,426.95,418.30,418.50,429.85,415.00,424.35
+253,254,CORPBANK,Corporation Bank,25.50,25.00,25.35,25.50,24.70,25.35
+254,255,COSMOFILMS,Cosmo Films Limited,246.70,249.70,251.45,252.95,246.45,247.75
+255,256,COX&KINGS,Cox & Kings Limited,0,0,0,0,0,0
+256,257,CPIL,Career Point Infosystems Limited,0,0,0,0,0,0
+257,258,CREATIVEYE,Creative Eye Limited,0,0,0,0,0,0
+258,259,CRESTANI,Crest Animation Studios Limited,0,0,0,0,0,0
+259,260,CREWBOS,Crew B.O.S. Products Limited,0,0,0,0,0,0
+260,261,CRISIL,CRISIL Limited,"1,649.85","1,641.10","1,635.25","1,662.40","1,623.50","1,642.20"
+261,262,CROMPGREAV,Crompton Greaves Limited,0,0,0,0,0,0
+262,263,CRONIMET,Cronimet Alloys India Limited,0,0,0,0,0,0
+263,264,CTE,Cambridge Technology Enterprises Limited,55.20,55.15,54.05,56.00,54.05,54.85
+264,265,CUB,City Union Bank Limited,182.50,183.40,185.95,185.95,181.00,182.75
+265,266,CUBEXTUB,Cubex Tubings Limited,18.50,19.45,19.75,19.80,18.50,18.50
+266,267,CUMMINSIND,Cummins India Limited,704.90,719.85,709.80,720.15,696.25,701.80
+267,268,CURATECH,Cura Technologies Limited,5.00,5.00,0.00,0.00,0.00,0.00
+268,269,CYBERMEDIA,Cyber Media (India) Limited,10.20,10.20,0.00,0.00,0.00,0.00
+269,270,CYBERTECH,Cybertech Systems And Software    Limited,52.45,49.75,51.15,52.50,50.15,51.80
+270,271,DAAWAT,LT Foods Limited,76.70,83.80,79.55,79.65,76.40,76.75
+271,272,DABUR,Dabur India Limited,377.75,369.50,371.00,379.75,370.50,378.30
+272,273,DALMIASUG,Dalmia Bharat Sugar and Industries Limited,64.90,62.55,62.55,64.90,61.30,63.85
+273,274,DATAMATICS,Datamatics Global Services Limited,120.00,120.40,120.30,122.40,118.10,120.40
+274,275,DBCORP,D.B.Corp Limited,260.10,256.65,257.45,262.80,257.00,259.20
+275,276,DBREALTY,D B Realty Limited,51.70,49.50,49.40,51.90,49.20,51.45
+276,277,DCB,Development Credit Bank Limited,0,0,0,0,0,0
+277,278,DCHL,Deccan Chronicle Holdings Limited,0,0,0,0,0,0
+278,279,DCM,DCM Limited,90.00,87.50,87.70,90.40,87.00,89.80
+279,280,DCMSRMCONS,DCM Shriram Consolidated Limited,0,0,0,0,0,0
+280,281,DCW,DCW Limited,28.00,26.60,26.40,28.00,26.40,27.50
+281,282,DECCANCE,Deccan Cements Limited,468.30,463.05,474.90,474.90,462.00,468.05
+282,283,DECOLIGHT,Decolight Ceramics Limited,0,0,0,0,0,0
+283,284,DEEPAKFERT,Deepak Fertilizers and Petrochemicals Corporation Limited,318.70,315.55,314.10,321.85,312.00,318.90
+284,285,DEEPAKNTR,Deepak Nitrite Limited,251.90,247.50,249.65,253.20,247.65,250.85
+285,286,DEEPIND,Deep Industries Limited,147.45,141.35,141.05,150.00,137.05,148.30
+286,287,DELTACORP,Delta Corp Limited,229.85,231.30,232.50,234.20,228.05,229.75
+287,288,DELTAMAGNT,Delta Magnets Limited,61.30,58.75,58.00,61.50,55.85,59.75
+288,289,DEN,Den Networks Limited,97.10,96.65,97.45,98.65,95.50,97.05
+289,290,DENABANK,Dena Bank,16.30,16.15,16.20,16.40,16.05,16.25
+290,291,DENORA,De Nora India Limited,338.00,331.60,321.00,348.15,321.00,339.25
+291,292,DEWANHOUS,Dewan Housing Finance Corporation    Limited,0,0,0,0,0,0
+292,293,DHAMPURSUG,The Dhampur Sugar Mills Limited,94.30,92.80,92.80,94.90,91.10,93.85
+293,294,DHANBANK,Dhanlaxmi Bank Limited,20.20,20.35,20.50,20.50,20.00,20.20
+294,295,DHANUKA,Dhanuka Agritech Limited,586.55,579.30,581.20,590.00,571.20,587.40
+295,296,DHANUS,Dhanus Technologies Limited,0,0,0,0,0,0
+296,297,DHARSUGAR,Dharani Sugars & Chemicals Limited,15.65,15.95,15.95,16.05,15.20,15.65
+297,298,DHUNINV,Dhunseri Investments Limited,360.00,355.00,367.95,381.90,357.00,360.60
+298,299,DIAPOWER,Diamond Power Infra Ltd,2.75,2.65,2.75,2.75,2.75,2.75
+299,300,DICIND ,DIC India Limited,0,0,0,0,0,0
+300,301,DIGJAM,Digjam Limited,0,0,0,0,0,0
+301,302,DISHMAN,Dishman Pharmaceuticals and Chemicals,0,0,0,0,0,0
+302,303,DISHTV,Dish TV India Limited,74.75,74.45,74.65,75.00,73.85,74.75
+303,304,DIVISLAB,Divi's Laboratories Limited,"1,147.20","1,128.70","1,129.85","1,154.80","1,113.80","1,148.85"
+304,305,DLF,DLF Limited,202.50,196.40,196.95,205.40,196.55,202.70
+305,306,DLINKINDIA,D-Link (India) Limited,91.75,90.30,90.30,92.25,90.00,90.95
+306,307,DOLPHINOFF,Dolphin Offshore Enterprises (India) Limited,80.70,81.10,81.65,82.25,80.15,80.95
+307,308,DONEAR,Donear Industries Limited,48.70,47.90,48.15,49.30,47.05,48.25
+308,309,DPSCLTD,DPSC Limited,27.45,27.20,27.45,27.45,27.05,27.45
+309,310,DPTL,Dhunseri Petrochem & Tea Limited,0,0,0,0,0,0
+310,311,DQE,DQ Entertainment (International) Limited,9.50,9.95,9.95,10.00,9.50,9.50
+311,312,DREDGECORP,Dredging Corporation of India Limited,561.00,556.85,559.00,569.00,555.25,561.40
+312,313,DRREDDY,Dr. Reddy's Laboratories Limited,"1,967.85","1,972.95","1,975.00","1,995.80","1,965.00","1,967.85"
+313,314,DSKULKARNI,DS Kulkarni Developers Limited,0,0,0,0,0,0
+314,315,DUNCANSIND,Duncans Industries Limited,0,0,0,0,0,0
+315,316,DWARKESH,Dwarikesh Sugar Industries Limited,23.65,22.85,23.50,23.80,22.70,23.60
+316,317,DYNAMATECH,Dynamatic Technologies Limited,"1,813.90","1,744.80","1,747.05","1,814.15","1,745.00","1,790.50"
+317,318,DYNASYS,Dynacons Systems & Solutions Limited,0,0,0,0,0,0
+318,319,EASTSILK,Eastern Silk Industries Limited,3.95,3.75,4.00,4.10,3.70,3.90
+319,320,EASUNREYRL,Easun Reyrolle Limited,16.00,15.55,16.00,16.30,16.00,16.00
+320,321,ECEIND,ECE Industries Limited,316.50,310.85,314.15,316.50,306.10,314.80
+321,322,ECLERX,eClerx Services Limited,"1,275.00","1,284.85","1,276.05","1,299.80","1,270.00","1,275.00"
+322,323,EDELWEISS,Edelweiss Capital Limited,310.35,303.60,305.60,312.50,302.40,310.55
+323,324,EDL,Empee Distilleries Limited,29.10,28.00,28.70,29.40,28.10,28.40
+324,325,EDSERV,Edserv Softsystems Limited,0,0,0,0,0,0
+325,326,EDUCOMP,Educomp Solutions Limited,3.95,3.95,3.95,4.10,3.80,4.10
+326,327,EICHERMOT,Eicher Motors Limited,"30,200.00","29,515.40","29,522.55","30,333.35","29,522.55","30,203.45"
+327,328,EIDPARRY,EID Parry India Limited,237.90,235.10,235.00,238.00,233.75,236.65
+328,329,EIHAHOTELS,EIH Associated Hotels Limited,515.00,510.80,510.80,518.65,496.60,509.95
+329,330,EIHOTEL,EIH Limited,167.50,167.95,168.60,169.75,166.50,168.05
+330,331,EIMCOELECO,Eimco Elecon (India) Limited,399.90,390.30,381.05,403.00,381.05,399.90
+331,332,EKC,Everest Kanto Cylinder Limited,42.90,43.35,43.60,43.75,42.60,42.85
+332,333,ELDERPHARM,Elder Pharmaceuticals Limited,0,0,0,0,0,0
+333,334,ELECON,Elecon Engineering Company Limited,63.30,62.00,61.20,63.85,61.20,63.20
+334,335,ELECTCAST,Electrosteel Castings Limited,25.00,24.50,24.45,25.40,23.10,24.70
+335,336,ELECTHERM,Electrotherm (India) Limited,166.50,159.45,160.00,168.00,160.00,165.85
+336,337,ELGIEQUIP,Elgi Equipments Limited,290.00,289.10,288.30,290.10,285.10,289.90
+337,338,EMAMIINFRA,Emami Infrastructure Limited,270.90,271.35,272.65,272.80,264.00,269.10
+338,339,EMAMILTD,Emami Limited,"1,044.70","1,049.30","1,046.00","1,057.15","1,040.10","1,045.55"
+339,340,EMCO,Emco Limited,7.10,7.45,7.40,7.45,7.10,7.10
+340,341,EMKAY,Emkay Global Financial Services    Limited,146.00,144.05,144.90,146.00,140.35,145.45
+341,342,EMMBI,Emmbi Polyarns Limited,160.50,158.50,158.35,161.10,156.10,160.30
+342,343,ENERGYDEV,Energy Development Company Limited,18.15,18.40,18.65,18.65,17.80,18.15
+343,344,ENGINERSIN,Engineers India Limited,139.60,133.50,134.00,139.90,133.80,138.80
+344,345,ENIL,Entertainment Network (India) Limited,663.90,651.20,652.85,664.90,651.25,662.15
+345,346,ENTEGRA,Entegra Limited,0,0,0,0,0,0
+346,347,ERAINFRA,Era Infra Engineering Limited,0,0,0,0,0,0
+347,348,EROSMEDIA,Eros International Media Limited,141.80,142.15,145.05,150.25,138.30,142.70
+348,349,ESABINDIA,Esab India Limited,642.05,642.45,640.90,655.00,640.00,643.55
+349,350,ESCORTS,Escorts Limited,918.20,890.30,889.50,919.90,886.00,916.35
+350,351,ESL,Electrosteel Steels Limited,1.10,1.15,1.10,1.10,1.10,1.10
+351,352,ESSAROIL,Essar Oil Limited,0,0,0,0,0,0
+352,353,ESSARPORTS,Essar Ports Limited,0,0,0,0,0,0
+353,354,ESSDEE,Ess Dee Aluminium Limited,35.60,37.20,36.90,38.00,35.50,36.55
+354,355,ESSELPACK,Essel Propack Limited,255.90,255.00,251.10,261.00,251.10,255.95
+355,356,ESTER,Ester Industries Limited,57.50,56.15,57.15,58.85,55.50,58.20
+356,357,EUROCERA,Euro Ceramics Limited,4.20,4.30,4.00,4.35,3.80,4.20
+357,358,EUROMULTI,Euro Multivision Limited,0,0,0,0,0,0
+358,359,EUROTEXIND,Eurotex Industries and Exports Limited,29.90,28.55,30.45,30.50,29.90,29.90
+359,360,EVEREADY,Eveready Industries India Limited,260.00,259.60,259.60,260.00,256.10,259.30
+360,361,EVERESTIND,Everest Industries Limited,460.35,459.20,463.30,468.30,451.60,456.55
+361,362,EVERONN,Everonn Education Limited,0,0,0,0,0,0
+362,363,EVINIX,Evinix Accessories Limited,0,0,0,0,0,0
+363,364,EXCELCROP,Excel Crop Care Limited,"3,199.00","3,075.00","3,100.00","3,199.00","3,070.25","3,182.55"
+364,365,EXCELINDUS,Excel Industries Limited,"1,398.00","1,288.40","1,290.00","1,400.00","1,290.00","1,374.30"
+365,366,EXCELINFO,Excel Infoways Limited,0,0,0,0,0,0
+366,367,EXIDEIND,Exide Industries Limited,257.35,243.35,243.45,259.50,243.25,257.90
+367,368,FACT,Fertilizers and Chemicals Travancore Limited,44.00,43.35,43.70,44.80,43.05,44.05
+368,369,FAGBEARING,FAG Bearings India Limited,0,0,0,0,0,0
+369,370,FAME,Fame India Limited,0,0,0,0,0,0
+370,371,FARMAXIND,Farmax India Limited,0,0,0,0,0,0
+371,372,FCH,Future Capital Holdings Limited,0,0,0,0,0,0
+372,373,FCSSOFT,FCS Software Solutions Limited,0.30,0.25,0.30,0.30,0.25,0.30
+373,374,FDC,FDC Limited,243.10,245.50,244.85,249.85,243.00,243.70
+374,375,FEDDERLOYD,Fedders Lloyd Corporation Limited,0,0,0,0,0,0
+375,376,FEDERALBNK,The Federal Bank Limited,84.60,82.90,83.00,84.80,82.80,84.40
+376,377,FIEMIND,Fiem Industries Limited,845.80,831.50,834.40,853.50,828.05,845.20
+377,378,FINANTECH ,Financial Technologies (India)    Limited,0,0,0,0,0,0
+378,379,FINCABLES,Finolex Cables Limited,681.05,679.05,681.00,685.55,679.80,684.95
+379,380,FINPIPE,Finolex Industries Limited,625.00,627.50,627.50,636.00,623.10,625.00
+380,381,FIRSTLEASE ,First Leasing Company of India    Limited,0,0,0,0,0,0
+381,382,FIRSTWIN,First Winner Industries Limited,1.40,1.40,1.40,1.40,1.40,1.40
+382,383,FKONCO,Fresenius Kabi Oncology Limited,0,0,0,0,0,0
+383,384,FMGOETZE,Federal-Mogul Goetze (India) Limited,436.00,439.05,438.80,438.80,429.60,436.55
+384,385,FORTIS,Fortis Healthcare (India) Limited,145.90,142.95,142.60,145.90,142.10,145.05
+385,386,FOSECOIND,Foseco India Limited,"1,390.00","1,391.40","1,381.50","1,400.00","1,381.50","1,394.80"
+386,387,FOURSOFT,Four Soft Limited,0,0,0,0,0,0
+387,388,FSL,Firstsource Solutions Limited,71.90,70.45,70.95,72.45,70.75,71.85
+388,389,FUTUREVENT,Future Ventures India Limited,0,0,0,0,0,0
+389,390,GABRIEL,Gabriel India Limited,149.85,153.80,154.80,154.80,149.00,149.70
+390,391,GAEL,Gujarat Ambuja Exports Limited,227.95,232.50,232.40,237.00,226.00,227.20
+391,392,GAIL,GAIL (India) Limited,320.85,309.50,313.00,324.00,310.10,319.15
+392,393,GAL,Gyscoal Alloys Limited,7.20,7.15,7.40,7.40,7.05,7.10
+393,394,GALLANTT,Gallantt Metal Limited,48.80,46.50,48.80,48.80,48.80,48.80
+394,395,GALLISPAT,Gallantt Ispat Limited,282.50,277.60,279.65,285.00,274.45,278.70
+395,396,GAMMNINFRA,Gammon Infrastructure Projects    Limited,2.40,2.40,2.45,2.45,2.35,2.35
+396,397,GAMMONIND,Gammon India Limited,0,0,0,0,0,0
+397,398,GANDHITUBE,Gandhi Special Tubes Limited,401.00,393.65,392.00,404.00,391.60,402.60
+398,399,GANESHHOUC,Ganesh Housing Corporation Limited,119.70,119.50,120.00,121.50,119.50,119.95
+399,400,GARDENSILK,Garden Silk Mills Limited,30.80,30.90,31.00,31.50,30.40,30.95
+400,401,GARWALLROP,Garware Wall Ropes Limited,934.70,936.30,938.65,950.85,920.55,930.00
+401,402,GLOBOFFS,Global Offshore Services Limited,20.65,20.10,20.55,20.80,20.30,20.65
+402,403,GATI,GATI Limited,99.95,97.30,97.30,106.20,96.60,99.85
+403,404,GDL,Gateway Distriparks Limited,199.10,165.95,166.10,199.10,166.10,199.10
+404,405,GEECEE,GeeCee Ventures Limited,146.35,152.60,151.65,152.05,146.20,146.75
+405,406,GEINDSYS,GEI Industrial Systems Limited,0,0,0,0,0,0
+406,407,GEMINI,Gemini Communication Limited,0.90,0.90,0.90,0.95,0.90,0.90
+407,408,GENESYS,Genesys International Corporation Limited,241.55,236.85,235.10,243.00,235.10,241.60
+408,409,GENUSPOWER,Genus Power Infrastructures Limited,44.40,43.85,43.85,45.45,43.50,44.50
+409,410,GEODESIC,Geodesic Limited,0,0,0,0,0,0
+410,411,GEOJITBNPP,Geojit BNP Paribas Financial Services    Limited,0,0,0,0,0,0
+411,412,GEOMETRIC,Geometric Limited,0,0,0,0,0,0
+412,413,GESHIP,The Great Eastern Shipping Company Limited,329.50,329.75,329.85,332.75,326.05,329.10
+413,414,GHCL,GHCL Limited,274.10,275.35,276.40,277.35,274.00,276.15
+414,415,GICHSGFIN,GIC Housing Finance Limited,382.40,378.30,379.00,383.80,375.60,382.10
+415,416,GILLANDERS,Gillanders Arbuthnot & Company    Limited,70.25,69.00,69.00,70.50,68.10,69.75
+416,417,GILLETTE,Gillette India Limited,"6,550.00","6,525.50","6,586.90","6,586.90","6,489.35","6,550.00"
+417,418,GINNIFILA,Ginni Filaments Limited,24.05,23.60,23.35,24.30,23.15,24.05
+418,419,GIPCL,Gujarat Industries Power Company Limited,95.85,98.45,98.45,99.00,95.20,96.10
+419,420,GISOLUTION,GI Engineering Solutions Limited,0,0,0,0,0,0
+420,421,GITANJALI,Gitanjali Gems Limited,5.80,5.55,5.80,5.80,5.80,5.80
+421,422,GKWLIMITED,GKW Limited,762.40,726.10,735.00,762.40,725.00,757.80
+422,423,GLAXO,GlaxoSmithKline Pharmaceuticals    Limited,"2,345.10","2,387.35","2,360.05","2,378.00","2,326.35","2,360.90"
+423,424,GLENMARK,Glenmark Pharmaceuticals Limited,536.60,531.30,529.80,539.65,524.15,535.40
+424,425,GLFL,Gujarat Lease Financing Limited,1.95,1.95,0.00,0.00,0.00,0.00
+425,426,GLOBALVECT,Global Vectra Helicorp Limited,98.25,97.85,97.45,99.90,97.45,98.80
+426,427,GLOBUSSPR,Globus Spirits Limited,131.00,129.45,131.00,134.15,129.85,131.00
+427,428,GLODYNE,Glodyne Technoserve Limited,0,0,0,0,0,0
+428,429,GLORY,Glory Polyfilms Limited,0,0,0,0,0,0
+429,430,GMBREW,GM Breweries Limited,853.05,861.70,872.00,883.85,843.75,853.15
+430,431,GMDCLTD,Gujarat Mineral Development    Corporation Limited,118.85,117.90,118.80,121.25,118.00,118.50
+431,432,GMRINFRA,GMR Infrastructure Limited,18.00,17.20,17.40,18.05,17.25,17.90
+432,433,GNFC,Gujarat Narmada Valley Fertilizer Company Limited,465.50,457.45,459.95,468.50,459.00,464.95
+433,434,GOACARBON,Goa Carbon Limited,668.00,674.75,684.00,684.60,660.05,671.55
+434,435,GODFRYPHLP,Godfrey Phillips India Limited,777.65,769.20,773.00,783.75,757.70,778.45
+435,436,GODREJCP,Godrej Consumer Products Limited,"1,123.00","1,118.50","1,118.65","1,128.45","1,100.10","1,123.65"
+436,437,GODREJIND,Godrej Industries Limited,566.00,547.95,553.15,571.00,548.05,566.10
+437,438,GODREJPROP,Godrej Properties Limited,731.20,729.75,728.15,736.35,723.00,731.85
+438,439,GOENKA,Goenka Diamond and Jewels Limited,0.40,0.35,0.40,0.40,0.35,0.40
+439,440,GOKEX,Gokaldas Exports Limited,93.25,91.60,91.85,96.60,91.25,93.45
+440,441,GOKUL,Gokul Refoils and Solvent Limited,12.55,12.75,13.00,13.00,12.25,12.55
+441,442,GOLDENTOBC,Golden Tobacco Limited,64.00,64.00,0.00,0.00,0.00,0.00
+442,443,GOLDIAM,Goldiam International Limited,69.90,69.70,70.65,70.95,69.20,70.55
+443,444,GOLDINFRA,Goldstone Infratech Limited,152.00,158.30,160.00,161.70,150.50,152.15
+444,445,GOLDTECH,Goldstone Technologies Limited,10.75,10.55,11.05,11.05,10.30,10.40
+445,446,GPIL,Godawari Power And Ispat limited,438.85,433.70,431.70,444.80,431.70,440.10
+446,447,GPPL,Gujarat Pipavav Port Limited,123.35,124.90,125.10,125.80,122.00,123.80
+447,448,GRABALALK,Grabal Alok Impex Limited,0,0,0,0,0,0
+448,449,GRANULES,Granules India Limited,79.45,83.10,81.30,82.00,77.80,79.50
+449,450,GRAPHITE,Graphite India Limited,823.00,814.30,816.90,836.70,805.25,823.20
+450,451,GRASIM,Grasim Industries Limited,"1,030.05","1,021.70","1,026.00","1,037.70","1,007.25","1,030.65"
+451,452,GREAVESCOT,Greaves Cotton Limited,125.00,125.95,125.95,125.95,123.50,125.05
+452,453,GREENPLY ,Greenply Industries Limited,0,0,0,0,0,0
+453,454,GREENPOWER,Orient Green Power Company Limited,7.95,8.00,8.00,8.10,7.85,7.90
+454,455,GRINDWELL,Grindwell Norton Limited,505.00,494.70,495.10,517.45,490.00,510.60
+455,456,GRUH,Gruh Finance Limited,680.00,662.70,664.90,685.65,663.25,674.35
+456,457,GSFC,Gujarat State Fertilizers & Chemicals Limited,114.45,110.85,112.00,115.35,112.00,114.00
+457,458,GSKCONS,GlaxoSmithKline Consumer Healthcare Limited,"6,531.25","6,313.75","6,313.75","6,606.00","6,300.00","6,534.00"
+458,459,GSLNOVA,GSL Nova Petrochemicals Limited,0,0,0,0,0,0
+459,460,GSPL,Gujarat State Petronet Limited,175.50,174.40,174.50,176.45,171.00,175.55
+460,461,GSSAMERICA,GSS America Infotech Limited,0,0,0,0,0,0
+461,462,GTL,GTL Limited,8.15,7.90,7.95,8.25,7.90,8.05
+462,463,GTLINFRA,GTL Infrastructure Limited,1.65,1.60,1.55,1.65,1.55,1.55
+463,464,GTNIND,GTN Industries Limited,11.80,10.80,10.80,11.80,10.60,11.75
+464,465,GTOFFSHORE,Great Offshore Limited,0,0,0,0,0,0
+465,466,GUFICBIO,Gufic Biosciences Limited,135.80,136.30,136.65,139.30,134.75,135.20
+466,467,GUJALKALI,Gujarat Alkalies and Chemicals    Limited,654.00,618.50,675.00,688.95,635.25,651.95
+467,468,GUJAPOLLO,Gujarat Apollo Industries Limited,198.30,196.90,203.80,214.50,198.10,198.75
+468,469,GUJFLUORO,Gujarat Fluorochemicals Limited,785.00,798.90,802.80,815.45,782.00,789.55
+469,470,GUJNRECOKE,Gujarat NRE Coke Limited,0,0,0,0,0,0
+470,471,    GUJRATGAS,Gujarat Gas Company Limited,0,0,0,0,0,0
+471,472,    GUJSIDHCEM,Gujarat Sidhee Cements Limited,0,0,0,0,0,0
+472,473,    GUJSTATFIN,Gujarat State Financial Corporation,0,0,0,0,0,0
+473,474,    GULFOILCOR,Gulf Oil Corporation Limited,0,0,0,0,0,0
+474,475,    GVKPIL,GVK Power & Infrastructure Limited,0,0,0,0,0,0
+475,476,HALONIX,Halonix Limited,0,0,0,0,0,0
+476,477,HANUNG,Hanung Toys and Textiles Limited,2.15,2.25,2.25,2.25,2.15,2.15
+477,478,HARITASEAT,Harita Seating Systems Limited,950.00,945.90,953.65,962.50,941.35,950.65
+478,479,HARRMALAYA,Harrisons Malayalam Limited,98.00,98.55,99.30,101.00,97.10,98.60
+479,480,HATHWAY,Hathway Cable & Datacom Limited,30.65,28.00,28.20,30.90,28.05,30.40
+480,481,HAVELLS,Havells India Limited,544.00,534.50,536.05,544.40,533.25,542.55
+481,482,HBLPOWER,HBL Power Systems Limited,44.50,43.50,43.55,45.35,43.05,44.70
+482,483,HBSTOCK,HB Stockholdings Limited,0,0,0,0,0,0
+483,484,HCC,Hindustan Construction Company    Limited,15.45,15.20,15.20,15.55,14.90,15.40
+484,485,HCIL,Himadri Chemicals and Industries    Limited,0,0,0,0,0,0
+485,486,HCL-INSYS,HCL Infosystems Limited,44.40,43.70,44.00,45.30,43.65,44.35
+486,487,HCLTECH,HCL Technologies Limited,916.00,911.70,917.90,923.85,912.00,916.00
+487,488,HDFC,Housing Development Finance    Corporation Limited,"1,817.95","1,806.10","1,808.20","1,828.65","1,796.05","1,819.75"
+488,489,HDFCBANK,HDFC Bank Limited,"2,008.00","1,986.00","1,990.00","2,016.00","1,989.90","2,008.70"
+489,490,HDIL,Housing Development and    Infrastructure Limited,26.85,26.60,26.40,27.25,26.25,26.85
+490,491,HEG,HEG Limited,"3,383.00","3,362.30","3,363.45","3,419.00","3,305.10","3,387.55"
+491,492,HEIDELBERG,HeidelbergCement India Limited,145.05,147.90,149.00,150.15,143.55,145.00
+492,493,HELIOSMATH,Helios And Matheson Information    Technology Limited,0,0,0,0,0,0
+493,494,HERCULES,Hercules Hoists Limited,128.70,127.85,129.35,129.95,128.00,128.45
+494,495,HERITGFOOD,Heritage Foods (India) Limited,696.10,682.25,682.25,708.35,651.00,693.85
+495,496,HEROHONDA,Hero Honda Motors Limited,0,0,0,0,0,0
+496,497,HEXAWARE,Hexaware Technologies Limited,443.50,432.85,433.90,449.50,433.90,443.80
+497,498,HFCL,Himachal Futuristic Communications    Limited,25.90,25.80,25.80,26.10,25.55,25.80
+498,499,HGSL,Hinduja Global Solutions Limited,0,0,0,0,0,0
+499,500,HIKAL,Hikal Limited,230.05,230.55,230.60,233.85,227.70,230.25
+500,501,HILTON,Hilton Metal Forging Limited,31.00,31.55,31.00,32.15,30.05,31.00
+501,502,HIMATSEIDE,Himatsingka Seide Limited,360.55,350.85,351.95,368.90,351.35,362.05
+502,503,HINDALCO,Hindalco Industries Limited,245.10,234.10,235.00,247.25,234.55,245.50
+503,504,HINDCOMPOS,Hindustan Composites Limited,418.00,399.20,397.05,429.80,397.05,418.75
+504,505,HINDCOPPER,Hindustan Copper Limited,71.80,70.30,70.70,71.85,70.60,71.15
+505,506,HINDDORROL,Hindustan Dorr-Oliver Limited,2.20,2.10,2.20,2.20,2.00,2.20
+506,507,HINDMOTORS,Hindustan Motors Limited,6.90,6.80,6.90,7.00,6.75,6.95
+507,508,HINDNATGLS,Hindusthan National Glass &    Industries Limited,89.00,90.00,91.45,93.95,86.00,87.05
+508,509,HINDOILEXP,Hindustan Oil Exploration Company    Limited,127.95,130.50,129.80,131.95,123.00,128.50
+509,510,HINDPETRO,Hindustan Petroleum Corporation    Limited,296.50,283.25,285.00,297.40,278.85,295.20
+510,511,HINDSYNTEX,Hind Syntex Limited,5.70,5.45,5.40,5.70,5.20,5.70
+511,512,HINDUJAFO,Hinduja Foundries Limited,0,0,0,0,0,0
+512,513,HINDUJAVEN,Hinduja Ventures Limited,718.50,724.60,723.95,736.00,717.75,722.10
+513,514,HINDUNILVR,Hindustan Unilever Limited,"1,581.00","1,561.10","1,566.00","1,591.25","1,557.30","1,575.75"
+514,515,HINDZINC,Hindustan Zinc Limited,289.95,283.30,284.45,293.55,283.00,290.60
+515,516,HIRECT,Hind Rectifiers Limited,129.50,128.95,128.05,131.80,125.00,128.45
+516,517,HITACHIHOM,Hitachi Home and Life Solutions    (India) Limited,0,0,0,0,0,0
+517,518,HITECHGEAR,Hi-Tech Gears Limited,457.00,438.90,437.50,457.55,437.50,455.60
+518,519,HITECHPLAS,Hitech Plast Limited,0,0,0,0,0,0
+519,520,HMT,HMT Limited,26.00,26.05,25.25,27.00,25.20,26.00
+520,521,HMVL,Hindustan Media Ventures Limited,215.00,215.45,216.75,217.00,214.05,215.00
+521,522,HOCL,Hindustan Organic Chemicals Limited,0,0,0,0,0,0
+522,523,HONAUT,Honeywell Automation India Limited,"18,500.00","18,316.55","18,122.60","18,500.00","18,105.20","18,479.05"
+523,524,HONDAPOWER,Honda Siel Power Products Limited,"1,355.00","1,383.25","1,325.00","1,358.00","1,315.00","1,351.65"
+524,525,HOPFL,House of Pearl Fashions Limited,0,0,0,0,0,0
+525,526,HORIZONINF,Horizon Infrastructure Limited,0,0,0,0,0,0
+526,527,HOTELEELA,Hotel Leela Venture Limited,16.95,16.70,16.85,17.15,16.70,16.90
+527,528,HOTELRUGBY,Hotel Rugby Limited,2.85,2.85,2.85,2.85,2.85,2.85
+528,529,HOVS,HOV Services Limited,189.60,188.70,190.00,192.00,187.00,190.45
+529,530,HSIL,HSIL Limited,344.00,358.75,358.75,363.50,335.20,341.55
+530,531,HTMEDIA,HT Media Limited,79.95,77.20,77.50,80.50,77.10,79.95
+531,532,HYDRBADIND,Hyderabad Industries Limited,0,0,0,0,0,0
+532,533,IBN18,ibn18 Broadcast Limited,0,0,0,0,0,0
+533,534,IBPOW,Indiabulls Power Limited,0,0,0,0,0,0
+534,535,IBREALEST,Indiabulls Real Estate Limited,188.90,185.25,186.00,191.30,186.00,189.15
+535,536,IBSEC,Indiabulls Securities Limited,0,0,0,0,0,0
+536,537,ICICIBANK,ICICI Bank Limited,296.20,297.70,298.40,300.95,294.60,295.65
+537,538,ICIL,Indo Count Industries Limited,74.40,75.40,76.00,77.00,74.00,74.60
+538,539,ICRA,ICRA Limited,"3,360.45","3,390.50","3,385.00","3,434.95","3,360.20","3,378.25"
+539,540,ICSA,ICSA (India) Limited,2.15,2.10,2.10,2.20,2.00,2.20
+540,541,IDBI,IDBI Bank Limited,65.50,67.10,67.60,68.10,63.85,65.00
+541,542,IDEA,Idea Cellular Limited,59.70,56.90,57.85,61.25,57.00,59.75
+542,543,IDFC,Infrastructure Development Finance    Company Limited,51.40,49.60,49.75,51.40,49.50,51.20
+543,544,IFBAGRO,IFB Agro Industries Limited,622.15,617.35,630.00,638.70,620.00,622.85
+544,545,IFBIND,IFB Industries Limited,"1,307.10","1,274.60","1,279.15","1,325.00","1,279.15","1,317.70"
+545,546,IFCI,IFCI Limited,18.85,16.85,16.85,19.75,16.70,18.90
+546,547,IFGLREFRAC,IFGL Refractories Limited,0,0,0,0,0,0
+547,548,IGARASHI,Igarashi Motors India Limited,780.00,804.40,802.65,806.00,776.25,783.50
+548,549,IGL,Indraprastha Gas Limited,257.00,252.95,255.00,259.00,252.10,257.50
+549,550,IGPL,IG Petrochemicals Limited,613.05,595.80,598.00,614.95,595.60,612.20
+550,551,IITL,Industrial Investment Trust Limited,105.80,101.00,106.00,106.00,101.10,105.80
+551,552,IL&FSENGG,IL&FS Engineering and Construction    Company Limited,0,0,0,0,0,0
+552,553,IL&FSTRANS,IL&FS Transportation Networks Limited,0,0,0,0,0,0
+553,554,IMFA,Indian Metals & Ferro Alloys Limited,347.50,349.45,345.05,350.90,342.05,347.90
+554,555,IMPAL,India Motor Parts and Accessories    Limited,982.00,981.10,991.25,"1,000.00",982.00,987.60
+555,556,IMPEXFERRO,Impex Ferro Tech Limited,0.60,0.55,0.55,0.60,0.50,0.60
+556,557,INDBANK ,Indbank Merchant Banking Services    Limited,0,0,0,0,0,0
+557,558,INDHOTEL,The Indian Hotels Company Limited,135.80,136.65,137.00,139.70,135.20,136.65
+558,559,INDIABULLS,Indiabulls Financial Services Limited,0,0,0,0,0,0
+559,560,INDIACEM,The India Cements Limited,130.80,124.45,123.05,133.85,123.05,130.15
+560,561,INDIAGLYCO,India Glycols Limited,510.00,511.45,512.95,521.90,503.30,509.65
+561,562,INDIAINFO,India Infoline Limited,0,0,0,0,0,0
+562,563,INDIANB,Indian Bank,319.00,307.05,307.40,320.00,307.00,316.75
+563,564,INDIANCARD,Indian Card Clothing Company Limited,155.00,153.65,150.00,158.70,149.00,155.00
+564,565,INDIANHUME,Indian Hume Pipe Company Limited,289.00,280.75,281.20,289.90,281.20,288.85
+565,566,INDLMETER,IMP Powers Limited,92.30,92.30,92.55,93.90,91.60,92.30
+566,567,INDNIPPON,India Nippon Electricals Limited,527.00,523.05,525.00,536.85,524.00,527.45
+567,568,INDOASIFU,Indo Asian Fusegear Limited,0,0,0,0,0,0
+568,569,INDOCO,Indoco Remedies Limited,181.10,181.65,181.65,181.85,180.00,181.35
+569,570,INDORAMA,Indo Rama Synthetics (India) Limited,27.25,26.65,26.30,27.50,26.30,27.35
+570,571,INDOSOLAR,Indosolar Limited,5.80,6.10,6.10,6.30,5.80,5.80
+571,572,INDOTECH,Indo Tech Transformers Limited,173.00,174.85,172.00,175.40,167.25,172.10
+572,573,INDOWIND,Indowind Energy Limited,6.00,5.90,5.95,6.05,5.80,5.95
+573,574,INDRAMEDCO,Indraprastha Medical Corporation    Limited,45.95,45.75,45.10,46.30,45.10,45.75
+574,575,INDSWFTLAB,Ind-Swift Laboratories Limited,77.90,77.05,79.00,79.00,76.20,77.20
+575,576,INDSWFTLTD,Ind-Swift Limited,8.50,8.10,8.10,8.50,8.05,8.50
+576,577,INDUSFILA,Indus Fila Limited,0,0,0,0,0,0
+577,578,INDUSINDBK,IndusInd Bank Limited,"1,914.00","1,870.70","1,874.00","1,919.25","1,858.70","1,914.95"
+578,579,INEABS,INEOS ABS (India) Limited,0,0,0,0,0,0
+579,580,INFINITE,Infinite Computer Solutions (India) Limited,451.50,450.95,460.10,460.10,446.00,450.00
+580,581,INFOMEDIA,Infomedia 18 Limited,0,0,0,0,0,0
+581,582,INFY,Infosys Limited,"1,229.55","1,221.00","1,230.10","1,248.65","1,220.80","1,228.30"
+582,583,INFOTECENT,Infotech Enterprises Limited,0,0,0,0,0,0
+583,584,INGERRAND,Ingersoll Rand (India) Limited,612.95,626.25,630.00,630.00,610.00,612.75
+584,585,INGVYSYABK,ING Vysya Bank Limited,0,0,0,0,0,0
+585,586,INNOIND,Innoventive Industries Limited,0,0,0,0,0,0
+586,587,INOXLEISUR,INOX Leisure Limited,255.25,255.10,257.00,257.80,254.00,255.25
+587,588,INSECTICID,Insecticides (India) Limited,757.05,760.65,764.40,772.00,756.50,766.35
+588,589,IOB,Indian Overseas Bank,16.00,15.80,15.80,16.20,15.80,16.00
+589,590,IOC,Indian Oil Corporation Limited,164.25,155.90,156.60,164.50,156.60,163.45
+590,591,IOLCP,IOL Chemicals and Pharmaceuticals Limited,93.00,92.90,93.95,94.20,92.30,93.00
+591,592,IOLN,IOL Netcom Limited,0,0,0,0,0,0
+592,593,IPCALAB,IPCA Laboratories Limited,673.50,662.90,662.30,673.50,662.30,670.30
+593,594,IRB,IRB Infrastructure Developers Limited,235.80,231.25,231.70,239.00,231.35,236.15
+594,595,ISFT,Intrasoft Technologies Limited,536.50,550.95,550.00,573.80,525.00,537.30
+595,596,ISMTLTD,ISMT Limited,6.10,5.85,6.05,6.10,5.85,6.10
+596,597,ISPATIND,Ispat Industries Limited,0,0,0,0,0,0
+597,598,ITC,ITC Limited,272.80,274.85,272.40,275.00,268.75,272.30
+598,599,ITDCEM,ITD Cementation India Limited,157.00,156.80,153.70,157.20,153.20,156.10
+599,600,ITI,ITI Limited,94.40,93.35,94.50,97.20,93.30,94.60
+600,601,IVC,IL&FS Investment Managers Limited,14.80,14.60,14.80,15.00,14.50,14.80
+601,602,IVP,IVP Limited,186.00,192.35,194.05,194.05,181.05,186.00
+602,603,IVRCLAH,IVRCL Assets & Holdings Limited,0,0,0,0,0,0
+603,604,IVRCLINFRA,IVRCL Limited,2.00,1.95,1.95,2.00,1.90,2.00
+604,605,J&KBANK,The Jammu & Kashmir Bank Limited,0,0,0,0,0,0
+605,606,JAGRAN,Jagran Prakashan Limited,164.75,164.10,164.85,165.40,164.10,165.10
+606,607,JAGSNPHARM,Jagsonpal Pharmaceuticals Limited,24.85,24.80,25.50,25.50,24.70,24.85
+607,608,JAIBALAJI,Jai Balaji Industries Limited,9.00,8.80,8.75,9.10,8.65,8.80
+608,609,JAICORPLTD,Jai Corp Limited,131.90,130.90,131.20,134.25,129.25,132.20
+609,610,JAINSTUDIO,Jain Studios Limited,3.10,3.15,3.10,3.10,3.10,3.10
+610,611,JAMNAAUTO,Jamna Auto Industries Limited,91.75,90.35,90.35,93.00,90.30,91.70
+611,612,JAYAGROGN,Jayant Agro Organics Limited,247.00,240.75,243.80,252.00,236.00,246.95
+612,613,JAYBARMARU,Jay Bharat Maruti Limited,457.95,453.45,454.75,460.00,450.25,458.50
+613,614,JAYNECOIND,Jayaswal Neco Industries Limited,7.15,6.85,6.95,7.15,6.80,7.15
+614,615,JAYSREETEA,Jayshree Tea & Industries Limited,88.00,87.40,87.35,89.80,87.20,88.25
+615,616,JBCHEPHARM,JB Chemicals & Pharmaceuticals    Limited,299.00,294.75,294.75,301.60,289.10,293.25
+616,617,JBFIND,JBF Industries Limited,89.65,87.05,89.90,91.40,83.60,90.05
+617,618,JBMA,JBM Auto Limited,387.00,377.80,374.90,389.00,374.90,387.25
+618,619,JCTEL,JCT Electronics Limited,0,0,0,0,0,0
+619,620,JENSONICOL,Jenson & Nicholson (India) Limited,0,0,0,0,0,0
+620,621,JETAIRWAYS,Jet Airways (India) Limited,407.00,391.70,391.70,409.35,383.60,405.00
+621,622,JEYPORE,The Jeypore Sugar Company Limited,0,0,0,0,0,0
+622,623,JHS,JHS Svendgaard Laboratories Limited,46.70,47.45,48.05,48.30,45.85,46.25
+623,624,JIKIND,JIK Industries Limited,0,0,0,0,0,0
+624,625,JINDALPHOT,Jindal Photo Limited,39.55,38.50,38.60,40.00,38.25,39.65
+625,626,JINDALPOLY,Jindal Poly Films Limited,208.40,209.05,209.10,213.60,205.10,207.25
+626,627,JINDALSAW,Jindal Saw Limited,104.00,103.35,103.00,106.75,102.70,103.80
+627,628,JINDALSTEL,Jindal Steel & Power Limited,235.60,227.65,230.00,237.20,228.20,235.65
+628,629,JINDALSWHL,Jindal South West Holdings Limited,0,0,0,0,0,0
+629,630,JINDCOT,Jindal Cotex Limited,8.75,8.40,8.40,8.80,8.25,8.75
+630,631,JINDRILL,Jindal Drilling And Industries Limited,143.75,151.25,148.90,151.00,143.20,144.35
+631,632,JINDWORLD,Jindal Worldwide Limited,587.75,579.30,593.95,594.95,582.35,587.75
+632,633,JISLJALEQS,Jain Irrigation Systems Limited,104.60,97.95,97.95,105.50,97.90,103.90
+633,634,JKCEMENT,JK Cement Limited,934.00,940.60,940.55,945.00,931.40,938.35
+634,635,JKIL,J.Kumar Infraprojects Limited,263.00,239.75,240.00,264.90,240.00,259.60
+635,636,JKLAKSHMI,JK Lakshmi Cement Limited,373.00,380.95,379.90,379.90,372.00,373.60
+636,637,JKPAPER,JK Paper Limited,132.00,129.35,128.55,133.00,128.55,131.20
+637,638,JKTYRE,JK Tyre & Industries Limited,132.90,133.85,134.00,135.50,131.50,132.45
+638,639,JMCPROJECT,JMC Projects (India) Limited,660.00,659.95,661.05,674.55,652.15,659.10
+639,640,JMFINANCIL,JM Financial Limited,131.50,131.10,130.30,133.80,129.00,130.65
+640,641,JMTAUTOLTD,JMT Auto Limited,3.90,3.90,4.00,4.00,3.80,3.85
+641,642,JOCIL,Jocil Limited,146.80,141.75,140.70,146.80,140.70,144.00
+642,643,JPASSOCIAT,Jaiprakash Associates Limited,16.20,15.65,15.90,16.35,15.35,16.10
+643,644,JPINFRATEC,Jaypee Infratech Limited,5.85,5.65,5.65,5.90,5.50,5.85
+644,645,JPPOWER,Jaiprakash Power Ventures Limited,3.55,3.65,3.65,3.65,3.55,3.55
+645,646,JSL,JSL Stainless Limited,79.75,78.95,79.75,80.80,78.50,79.90
+646,647,JSWENERGY,JSW Energy Limited,73.85,70.40,71.40,74.05,71.00,73.40
+647,648,JSWSTEEL,JSW Steel Limited,326.00,314.15,315.00,327.50,314.00,326.05
+648,649,JUBILANT,Jubilant Life Sciences Limited,801.00,787.25,791.20,819.00,788.90,799.40
+649,650,JUBLFOOD,Jubilant Foodworks Limited,"2,660.00","2,653.70","2,670.00","2,696.00","2,650.95","2,662.05"
+650,651,JUBLINDS,Jubilant Industries Limited,154.00,149.40,149.65,154.05,148.00,152.70
+651,652,JVLAGRO,JVL Agro Industries Limited,21.80,21.05,21.25,21.80,21.10,21.60
+652,653,JYOTHYLAB,Jyothy Laboratories Limited,427.90,417.25,418.00,434.60,414.65,430.35
+653,654,JYOTISTRUC,Jyoti Structures Limited,4.30,4.15,4.30,4.35,4.05,4.30
+654,655,KABRAEXTRU,Kabra Extrusion Technik Limited,107.50,107.10,106.25,109.80,106.25,108.50
+655,656,KAJARIACER,Kajaria Ceramics Limited,551.50,549.60,549.60,553.20,545.50,551.45
+656,657,KAKATCEM,Kakatiya Cement Sugar & Industries    Limited,254.25,258.60,260.00,269.70,243.50,250.70
+657,658,KALECONSUL,Kale Consultants Limited,0,0,0,0,0,0
+658,659,KALINDEE,Kalindee Rail Nirman (Engineers) Limited,0,0,0,0,0,0
+659,660,KALPATPOWR,Kalpataru Power Transmission Limited,460.00,448.50,455.00,463.00,447.00,458.80
+660,661,KALYANIFRG,Kalyani Forge Limited,350.00,355.90,338.45,350.00,338.30,350.00
+661,662,KAMATHOTEL,Kamat Hotels (I) Limited,97.10,94.90,95.40,98.40,94.70,97.00
+662,663,KANDAGIRI,Kandagiri Spinning Mills Limited.,0,0,0,0,0,0
+663,664,KANORICHEM,Kanoria Chemicals & Industries Limited,68.25,67.25,67.25,69.00,67.20,68.20
+664,665,KANSAINER,Kansai Nerolac Paints Limited,494.70,497.65,499.95,504.45,488.75,495.50
+665,666,KARURVYSYA,Karur Vysya Bank Limited,98.45,95.20,94.40,102.40,93.70,99.35
+666,667,KAUSHALYA,Kaushalya Infrastructure Development Corporation Limited,1.95,1.95,1.95,2.00,1.95,1.95
+667,668,KAVVERITEL,Kavveri Telecom Products Limited,8.85,8.60,8.80,9.45,8.20,8.85
+668,669,KBIL,Kirloskar Brothers Investments Limited,0,0,0,0,0,0
+669,670,KCP,KCP Limited,122.00,120.85,125.60,125.60,118.35,122.00
+670,671,KCPSUGIND,KCP Sugar and Industries Corporation    Limited,21.50,20.55,20.60,21.60,20.50,21.35
+671,672,KEC,KEC International Limited,372.50,373.35,371.00,377.00,369.80,372.80
+672,673,KECL,Kirloskar Electric Company Limited,24.85,24.15,24.15,25.25,24.05,24.70
+673,674,KEI,KEI Industries Limited,474.25,479.35,477.75,493.65,470.10,474.80
+674,675,KEMROCK,Kemrock Industries and Exports Limited,0,0,0,0,0,0
+675,676,KERNEX,Kernex Microsystems (India) Limited,35.60,34.05,34.00,35.60,33.50,34.95
+676,677,KESARENT,Kesar Enterprises Limited,36.55,37.80,39.30,39.30,36.55,36.85
+677,678,KESORAMIND,Kesoram Industries Limited,96.10,96.35,96.35,97.25,95.90,96.30
+678,679,KEYCORPSER,Keynote Corporate Services Limited,62.00,59.65,62.00,62.00,62.00,62.00
+679,680,KFA,Kingfisher Airlines Limited,0,0,0,0,0,0
+680,681,KGL,Karuturi Global Limited,1.85,1.80,1.85,1.85,1.85,1.85
+681,682,KHAITANELE,Khaitan Electricals Limited,9.35,9.35,0.00,0.00,0.00,0.00
+682,683,KHAITANLTD,Khaitan (India) Limited,42.50,41.25,41.95,42.95,41.00,42.50
+683,684,KHANDSE,Khandwala Securities Limited,21.25,21.45,22.00,22.50,21.25,21.25
+684,685,KICL,Kalyani Investment Company Limited,"2,374.00","2,331.85","2,330.00","2,376.90","2,325.00","2,343.30"
+685,686,KIL,Kamdhenu Ispat Limited,0,0,0,0,0,0
+686,687,KILITCH,Kilitch Drugs (India) Limited,88.70,89.60,89.95,90.85,88.20,89.10
+687,688,KINETICMOT,Kinetic Motor Company Limited,0,0,0,0,0,0
+688,689,KIRIINDUS,Kiri Industries Limited,460.45,449.90,450.35,464.40,450.35,461.10
+689,690,KIRLOSBROS,Kirloskar Brothers Limited,277.00,276.55,277.95,279.40,275.05,277.55
+690,691,KIRLOSENG,Kirloskar Oil Engines Limited,322.05,323.50,324.30,324.30,319.25,322.00
+691,692,KIRLOSIND,Kirloskar Industries Limited,"1,200.05","1,202.40","1,200.00","1,225.00","1,181.00","1,200.15"
+692,693,KITPLYIND,Kitply Industries Limited,0,0,0,0,0,0
+693,694,KKCL,Kewal Kiran Clothing Limited,"1,522.10","1,525.15","1,516.05","1,530.00","1,515.95","1,524.65"
+694,695,KLGSYSTEL,KLG Systel Limited,0,0,0,0,0,0
+695,696,KMSUGAR,K.M.Sugar Mills Limited,9.10,9.05,8.90,9.30,8.90,9.15
+696,697,KNRCON,KNR Constructions Limited,294.55,288.00,288.95,311.60,288.95,297.30
+697,698,KOHINOOR,Kohinoor Foods Limited,57.80,58.20,58.00,58.35,57.15,57.90
+698,699,KOLTEPATIL,Kolte - Patil Developers Limited,293.25,295.40,295.40,297.00,291.35,292.85
+699,700,KOPDRUGS,KDL Biotech Limited,0,0,0,0,0,0
+700,701,KOPRAN,Kopran Limited,60.10,58.95,59.40,60.80,57.70,59.95
+701,702,KOTAKBANK,Kotak Mahindra Bank Limited,"1,295.00","1,275.45","1,277.95","1,306.85","1,272.50","1,295.85"
+702,703,KOTARISUG,Kothari Sugars And Chemicals Limited,10.75,11.30,11.30,11.40,10.15,10.70
+703,704,KOTHARIPET,Kothari Petrochemicals Limited,25.60,25.35,25.40,27.00,25.35,25.65
+704,705,KOTHARIPRO,Kothari Products Limited,142.60,143.25,142.60,147.35,140.40,143.40
+705,706,KOUTONS,Koutons Retail India Limited,0,0,0,0,0,0
+706,707,KPIT,KPIT Cummins Infosystems Limited,270.15,270.85,272.40,278.40,269.20,271.00
+707,708,KPRMILL,K.P.R. Mill Limited,631.95,617.30,617.30,632.35,609.05,622.60
+708,709,KRBL,KRBL Limited,463.00,439.15,441.95,464.90,437.50,460.80
+709,710,KRISHNAENG,Krishna Engineering Works Limited,0,0,0,0,0,0
+710,711,KSBPUMPS,KSB Pumps Limited,815.00,791.15,798.90,819.90,787.95,810.25
+711,712,KSCL,Kaveri Seed Company Limited,509.00,506.95,512.00,523.15,487.25,512.10
+712,713,KSERASERA,K Sera Sera Limited,0.20,0.20,0.20,0.25,0.15,0.20
+713,714,KSK,KSK Energy Ventures Limited,3.90,3.95,4.00,4.05,3.80,3.80
+714,715,KSL,Kalyani Steels Limited,271.00,272.10,272.05,274.50,270.00,271.60
+715,716,KSOILS,K S Oils Limited,0,0,0,0,0,0
+716,717,KTIL,Kesar Terminals & Infrastructure Limited,104.90,103.75,107.85,107.85,100.35,103.75
+717,718,KTKBANK,The Karnataka Bank Limited,118.65,116.75,117.30,119.15,115.75,118.70
+718,719,LAKPRE,Lakshmi Precision Screws Limited,26.00,25.95,27.35,27.40,25.85,26.00
+719,720,LAKSHMIEFL,Lakshmi Energy and Foods Limited,16.60,16.80,18.15,18.15,15.70,16.75
+720,721,LAKSHVILAS,Lakshmi Vilas Bank Limited,96.00,94.60,94.65,97.00,94.50,96.10
+721,722,LANCOIN,Lanco Industries Limited,0,0,0,0,0,0
+722,723,LAOPALA,La Opala RG Limited,275.00,272.25,272.35,277.00,272.00,275.10
+723,724,LAXMIMACH,Lakshmi Machine Works Limited,"8,250.00","8,133.35","8,133.35","8,260.00","8,084.05","8,244.50"
+724,725,LGBBROSLTD,LG Balakrishnan & Bros Limited,"1,260.00","1,243.60","1,249.80","1,274.50","1,246.55","1,265.05"
+725,726,LGBFORGE,LGB Forge Limited,4.00,4.00,0.00,0.00,0.00,0.00
+726,727,LIBERTSHOE,Liberty Shoes Limited,192.50,191.40,193.55,199.00,190.80,191.85
+727,728,LICHSGFIN,LIC Housing Finance Limited,482.80,471.00,472.40,484.95,470.45,482.90
+728,729,LITL,Lanco Infratech Limited,0.80,0.80,0.80,0.85,0.80,0.85
+729,730,LLOYDELENG,Lloyd Electric & Engineering Limited,0,0,0,0,0,0
+730,731,LLOYDFIN,Lloyds Finance Limited,0,0,0,0,0,0
+731,732,LLOYDSTEEL,Lloyds Steel Industries Limited,0,0,0,0,0,0
+732,733,LML,LML Limited,0,0,0,0,0,0
+733,734,LOGIXMICRO,Logix Microsystems Limited,0,0,0,0,0,0
+734,735,LOKESHMACH,Lokesh Machines Limited,65.00,64.40,64.35,66.90,63.50,64.80
+735,736,LOTUSEYE,Lotus Eye Care Hospital Limited,29.60,29.85,30.00,30.05,29.50,29.60
+736,737,LOVABLE,Lovable Lingerie Limited,175.00,152.65,155.00,177.75,155.00,175.10
+737,738,LPDC,Landmark Property Development Company    Limited,3.20,3.25,3.35,3.35,3.20,3.20
+738,739,LT,Larsen & Toubro Limited,"1,339.20","1,338.05","1,340.95","1,347.60","1,331.75","1,342.00"
+739,740,LUMAXAUTO,Lumax Automotive Systems Limited,0,0,0,0,0,0
+740,741,LUMAXIND,Lumax Industries Limited,"2,226.00","2,235.10","2,244.15","2,263.05","2,225.40","2,244.05"
+741,742,LUMAXTECH,Lumax Auto Technologies Limited,780.00,783.20,780.00,803.75,777.00,784.30
+742,743,LUPIN,Lupin Limited,745.00,742.35,743.05,747.35,733.10,745.60
+743,744,LYKALABS,Lyka Labs Limited,37.00,36.35,36.20,38.00,36.05,36.75
